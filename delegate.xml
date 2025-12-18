@@ -1,0 +1,15 @@
+<delegate>
+   <localisation>
+      <language>english</language>
+   </localisation>
+   <config>
+      <track>true</track>
+      <gameID>spongebob-squarepants-fry-cook-flip-out</gameID>
+      <endScreenVersion>2</endScreenVersion>
+      <urlAlias>spongebob-squarepants-fry-cook-flip-out</urlAlias>
+      <contentType>SpongeBob Printable</contentType>
+      <showID>spo</showID>
+      <numberPages>1</numberPages>
+      <imageUrl>printable.png</imageUrl>
+   </config>
+</delegate>

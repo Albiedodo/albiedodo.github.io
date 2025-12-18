@@ -1,0 +1,42 @@
+<config>
+   <game>
+
+      <width>600</width>
+      <height>400</height>
+      <fps>30</fps>
+
+      <lives>3</lives>
+      <meterDuration>30</meterDuration>
+      <timeWarning>5</timeWarning>
+      <meterDelay>3</meterDelay>
+      <startDelay>1</startDelay>
+
+      <cookTime>5</cookTime>
+      <cookTimeDecrease>0.5</cookTimeDecrease>
+      <cookTimeDecreaseInterval>40</cookTimeDecreaseInterval>
+      <cookTimeLimit>3</cookTimeLimit>
+
+      <glowTime>1</glowTime>
+      <glowTimeDecrease>0.5</glowTimeDecrease>
+      <glowTimeDecreaseInterval>40</glowTimeDecreaseInterval>
+      <glowTimeLimit>.5</glowTimeLimit>
+
+      <burgerAmount>2</burgerAmount>
+      <burgerAmountIncrease>1</burgerAmountIncrease>
+      <burgerAmountIncreaseInterval>20</burgerAmountIncreaseInterval>
+      <burgerAmountLimit>12</burgerAmountLimit>
+
+      <notReadyTimePenalty>0</notReadyTimePenalty>
+      <burntTimePenalty>-5</burntTimePenalty>
+      <flippedTimeBonus>1</flippedTimeBonus>
+      <servedTimeBonus>2</servedTimeBonus>
+      <notReadyScorePenalty>0</notReadyScorePenalty>
+      <burntScorePenalty>0</burntScorePenalty>
+      <flippedScoreBonus>0</flippedScoreBonus>
+      <servedScoreBonus>1</servedScoreBonus>
+
+      <dropZoneX>80</dropZoneX>
+      <dropZoneY>200</dropZoneY>
+
+   </game>
+</config>
