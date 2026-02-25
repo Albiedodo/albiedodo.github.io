@@ -1,0 +1,5 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-image: url("image.gif");
+    background-size: 32px 32px !important;
+}
