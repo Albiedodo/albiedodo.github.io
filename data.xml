@@ -24,7 +24,7 @@
   
   <upsell>
     <enabled>true</enabled>
-    <url>/jb</url>
+    <url>/appstore</url>
   </upsell>
   
   <cheats>
